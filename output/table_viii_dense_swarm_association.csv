@@ -1,0 +1,7 @@
+association,swarm_density,inject_mismatch,threat_auc,fpr,tracking_rmse_m,id_switches_per_min
+Spatial gating,3 targets,0%,0.970,0.020,1.38,0.5
+Spatial gating,5 targets,10%,0.932,0.068,1.58,4.2
+Spatial gating,8 targets,20%,0.890,0.125,1.95,12.5
+JPDA baseline,3 targets,0%,0.975,0.018,1.30,0.2
+JPDA baseline,5 targets,10%,0.958,0.035,1.42,1.5
+JPDA baseline,8 targets,20%,0.925,0.075,1.65,3.8

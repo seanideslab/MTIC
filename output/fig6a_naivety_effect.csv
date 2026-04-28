@@ -1,0 +1,4 @@
+case,C2_no_naivety_rmse,C3_with_naivety_rmse,degradation_percent
+Full observability,1.10,1.09,0.9
+Partial occlusion 3_of_8_blind,1.72,1.10,56.4
+Severe occlusion 4_of_8_blind,1.93,1.15,67.8

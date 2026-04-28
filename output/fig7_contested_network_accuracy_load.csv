@@ -1,0 +1,10 @@
+condition,method,rmse_m,offered_load_kbps
+nominal_1hop,C1_centralized,1.05,1200
+nominal_1hop,C6_ci,1.25,6.5
+nominal_1hop,C3_mtic,1.09,32
+2hop_5loss,C1_centralized,1.42,1380
+2hop_5loss,C6_ci,1.48,7.2
+2hop_5loss,C3_mtic,1.22,36
+3hop_10burst,C1_centralized,2.50,1600
+3hop_10burst,C6_ci,1.85,8.5
+3hop_10burst,C3_mtic,1.36,42

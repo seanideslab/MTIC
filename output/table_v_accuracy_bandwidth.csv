@@ -1,0 +1,7 @@
+condition_metric,C1_centralized,C6_covariance_intersection,C3_mtic
+Nominal RMSEpos (m),1.05,1.25,1.09
+Nominal bandwidth/load (KB/s),1200,6.5,32
+2-hop 5% loss RMSEpos (m),1.42,1.48,1.22
+2-hop 5% loss load (KB/s),1380,7.2,36
+3-hop 10% burst RMSEpos (m),2.50,1.85,1.36
+3-hop 10% burst load (KB/s),1600,8.5,42

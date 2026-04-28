@@ -1,0 +1,8 @@
+component,typical_low_ms,typical_high_ms,worst_case_ms
+Acoustic detection and DOA,20,50,100
+Visual inference and stereo triangulation,5,30,80
+Safety-island replay and prediction,1,3,5
+K5 MTIC consensus over mesh,50,150,300
+Fuzzy-Bayesian decision,1,5,10
+DDS interception-command broadcast,5,20,50
+Total,100,260,545

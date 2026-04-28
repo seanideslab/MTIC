@@ -1,0 +1,10 @@
+parameter,balanced,conservative
+d0_m,100,120
+v_ref_mps,40,50
+ci95_lower_bound,0.90,0.95
+tr_Ppos_threshold_m2,<1.0,<1.0
+corroborating_nodes,>=2,>=2
+AUC,0.970,0.955
+FPR,<0.03,<0.01
+lead_time_s,6.8,5.78
+deployment,Field bases / critical infrastructure,Urban or friendly-mixed airspace

@@ -1,0 +1,7 @@
+packet_loss,routing,total_e2e_latency_ms,decision_trace_m2,trigger_success_percent,delayed_trigger_rate_percent
+0%,One-hop,145,0.45,99.2,0.5
+0%,Two-hop,215,0.62,97.8,1.8
+5%,One-hop,235,0.78,94.5,4.2
+5%,Two-hop,345,0.91,89.0,9.5
+10%,One-hop,310,0.88,87.4,11.2
+10%,Two-hop,480,1.15,68.5,26.0
