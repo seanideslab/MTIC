@@ -1,0 +1,27 @@
+acoustic_doa_alerts:
+  reliability: RELIABLE
+  history: KEEP_LAST
+  history_depth: 10
+  durability: TRANSIENT_LOCAL
+  deadline_ms: 100
+
+visual_bounding_boxes:
+  reliability: BEST_EFFORT
+  history: KEEP_LAST
+  history_depth: 1
+  durability: VOLATILE
+  deadline_ms: 20
+
+mtic_consensus_matrices:
+  reliability: RELIABLE
+  history: KEEP_LAST
+  history_depth: 5
+  durability: VOLATILE
+  deadline_ms: 50
+
+emergency_interception_command:
+  reliability: RELIABLE
+  history: KEEP_LAST
+  history_depth: 10
+  durability: TRANSIENT_LOCAL
+  deadline_ms: 30
