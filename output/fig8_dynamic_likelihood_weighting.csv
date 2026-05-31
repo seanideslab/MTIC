@@ -1,0 +1,5 @@
+condition,fixed_weight_fpr,dynamic_weight_fpr,reduction_percent
+strong_wind_15mps,0.18,0.10,44.4
+night_only,0.22,0.12,45.5
+wind_plus_night,0.28,0.08,71.4
+solar_backlight,0.19,0.11,42.1
