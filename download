@@ -1,0 +1,12 @@
+# Build artifacts
+*.o
+*.obj
+cuav_mtic_sim
+main
+*.exe
+*.dll
+*.pdb
+
+# Optional OS files
+.DS_Store
+Thumbs.db
